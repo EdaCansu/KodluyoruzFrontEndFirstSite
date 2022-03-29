@@ -8,7 +8,7 @@ Kodluyoruz Front-End Bootcamp Hazırlık Dersleri Kapsamında İlk Site Denemesi
 
 ## Site İçindekiler
 - Ad-Soyad
-- Hakkımda Bilgisi
+- Hakkımda 
 - Örnekler
 
 [Patika Profilime Ulaşmak İçin Tıklayınız](https://app.patika.dev/edamiaj)
